@@ -1,0 +1,10 @@
+[package]
+name = "ilmeria"
+version = "0.1.0"
+authors = ["Wonwoo Choi <chwo9843@gmail.com>"]
+description = "Atelier Lydie & Suelle puzzle optimizer"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+crossbeam = "0.3.2"
+clap = "~2.31.2"
